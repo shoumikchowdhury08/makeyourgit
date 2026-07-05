@@ -12,3 +12,6 @@ a=b/c
 
 #percentage
 a=b%c
+
+#multiplication
+a=b*c
